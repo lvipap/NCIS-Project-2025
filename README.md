@@ -5,7 +5,7 @@ A project for the Networks and Cloud Infrastructures exam (during the Master's d
 
 This work is distributed under the licence
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
-© Iovino A., Papale L., 2025
+© Iovino Andrea, Papale Livio, 2025
 
 You can read it here:  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it)
